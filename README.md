@@ -37,7 +37,7 @@
 </p>
 
 
-Credit: Rafael Zerpa
+Creditos: Rafael Zerpa
 
 Last Edited on: 10/08/2025
 <!--
