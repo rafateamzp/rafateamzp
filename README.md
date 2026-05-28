@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 🌎, Soy Rafael Alfonzo Zerpa D./ rafateamzp </h1>
+<h1 align="center">Hi 🌎, Soy Rafael Alfonzo Zerpa D./ rafateamzp / </h1>
 <h2 align="center">Soy un Profesional apasionado de las ciencias forestales y ambientales radicado en Buenos Aires, AR  </h2>
 <h2 align="center">Bienvenidos a mi portafolio profesional donde comparto proyectos y análisis geoespaciales usando herramientas GIS, programación y visualización interactiva</h2>
 #
@@ -7,12 +7,9 @@
  <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+Creador y desarrollador en GeckoGIS.
 
-
-
-- 🔭 Actualmente estoy trabajando en <a href="https://www.equustech.com.ar/?gad_campaignid=12963515029" target="blank">Equus Tecnología</a>
-
-- 🌐 Estoy estudiando la Diplomatura Univeristaria en Geomatica aplicada en <a href= "https://ig.conae.unc.edu.ar/" target="blank"> Instituto Gulich
+- 🌐 Acabo de terminar la Diplomatura Univeristaria en Geomatica aplicada en <a href= "https://ig.conae.unc.edu.ar/" target="blank"> Instituto Gulich
 
 - 🤝 Tengo horas disponibles para trabajos freelance en SIG, analisis de datos geoespaciales, elaboración de mapas temáticos
 
