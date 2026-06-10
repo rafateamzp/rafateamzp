@@ -7,7 +7,7 @@
  <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
--  Creador y desarrollador en GeckoGIS .
+## -  Creador y desarrollador en GeckoGIS .
 
 - 🌐 Acabo de terminar la Diplomatura Univeristaria en Geomatica aplicada en <a href= "https://ig.conae.unc.edu.ar/" target="blank"> Instituto Gulich
 
